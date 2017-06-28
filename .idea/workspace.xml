@@ -1,7 +1,270 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="843e1212-6369-4700-8e02-b6b722e881d7" name="Default" comment="" />
+    <list default="true" id="843e1212-6369-4700-8e02-b6b722e881d7" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Environment/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Environment/medievalEnvironment_01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Environment/medievalEnvironment_02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Environment/medievalEnvironment_03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Environment/medievalEnvironment_04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Environment/medievalEnvironment_05.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Environment/medievalEnvironment_06.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Environment/medievalEnvironment_07.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Environment/medievalEnvironment_08.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Environment/medievalEnvironment_09.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Environment/medievalEnvironment_10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Environment/medievalEnvironment_11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Environment/medievalEnvironment_12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Environment/medievalEnvironment_13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Environment/medievalEnvironment_14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Environment/medievalEnvironment_15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Environment/medievalEnvironment_16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Environment/medievalEnvironment_17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Environment/medievalEnvironment_18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Environment/medievalEnvironment_19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Environment/medievalEnvironment_20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Environment/medievalEnvironment_21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Structure/medievalStructure_01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Structure/medievalStructure_02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Structure/medievalStructure_03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Structure/medievalStructure_04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Structure/medievalStructure_05.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Structure/medievalStructure_06.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Structure/medievalStructure_07.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Structure/medievalStructure_08.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Structure/medievalStructure_09.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Structure/medievalStructure_10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Structure/medievalStructure_11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Structure/medievalStructure_12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Structure/medievalStructure_13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Structure/medievalStructure_14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Structure/medievalStructure_15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Structure/medievalStructure_16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Structure/medievalStructure_17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Structure/medievalStructure_18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Structure/medievalStructure_19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Structure/medievalStructure_20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Structure/medievalStructure_21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Structure/medievalStructure_22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Structure/medievalStructure_23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_05.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_06.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_07.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_08.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_09.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_26.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_27.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_29.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_31.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_34.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_37.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_38.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_39.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_41.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_42.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_43.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_44.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_45.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_46.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_47.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_49.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_51.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_52.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_53.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_54.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_55.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_56.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_57.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Tile/medievalTile_58.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Unit/medievalUnit_01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Unit/medievalUnit_02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Unit/medievalUnit_03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Unit/medievalUnit_04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Unit/medievalUnit_05.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Unit/medievalUnit_06.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Unit/medievalUnit_07.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Unit/medievalUnit_08.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Unit/medievalUnit_09.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Unit/medievalUnit_10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Unit/medievalUnit_11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Unit/medievalUnit_12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Unit/medievalUnit_13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Unit/medievalUnit_14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Unit/medievalUnit_15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Unit/medievalUnit_16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Unit/medievalUnit_17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Unit/medievalUnit_18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Unit/medievalUnit_19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Unit/medievalUnit_20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Unit/medievalUnit_21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Unit/medievalUnit_22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Unit/medievalUnit_23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Default size/Unit/medievalUnit_24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Environment/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Environment/medievalEnvironment_01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Environment/medievalEnvironment_02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Environment/medievalEnvironment_03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Environment/medievalEnvironment_04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Environment/medievalEnvironment_05.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Environment/medievalEnvironment_06.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Environment/medievalEnvironment_07.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Environment/medievalEnvironment_08.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Environment/medievalEnvironment_09.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Environment/medievalEnvironment_10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Environment/medievalEnvironment_11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Environment/medievalEnvironment_12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Environment/medievalEnvironment_13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Environment/medievalEnvironment_14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Environment/medievalEnvironment_15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Environment/medievalEnvironment_16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Environment/medievalEnvironment_17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Environment/medievalEnvironment_18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Environment/medievalEnvironment_19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Environment/medievalEnvironment_20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Environment/medievalEnvironment_21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Structure/medievalStructure_01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Structure/medievalStructure_02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Structure/medievalStructure_03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Structure/medievalStructure_04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Structure/medievalStructure_05.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Structure/medievalStructure_06.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Structure/medievalStructure_07.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Structure/medievalStructure_08.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Structure/medievalStructure_09.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Structure/medievalStructure_10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Structure/medievalStructure_11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Structure/medievalStructure_12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Structure/medievalStructure_13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Structure/medievalStructure_14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Structure/medievalStructure_15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Structure/medievalStructure_16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Structure/medievalStructure_17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Structure/medievalStructure_18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Structure/medievalStructure_19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Structure/medievalStructure_20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Structure/medievalStructure_21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Structure/medievalStructure_22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Structure/medievalStructure_23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_05.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_06.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_07.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_08.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_09.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_26.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_27.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_29.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_31.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_34.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_37.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_38.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_39.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_41.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_42.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_43.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_44.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_45.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_46.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_47.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_49.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_51.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_52.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_53.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_54.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_55.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_56.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_57.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Tile/medievalTile_58.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Unit/medievalUnit_01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Unit/medievalUnit_02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Unit/medievalUnit_03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Unit/medievalUnit_04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Unit/medievalUnit_05.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Unit/medievalUnit_06.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Unit/medievalUnit_07.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Unit/medievalUnit_08.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Unit/medievalUnit_09.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Unit/medievalUnit_10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Unit/medievalUnit_11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Unit/medievalUnit_12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Unit/medievalUnit_13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Unit/medievalUnit_14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Unit/medievalUnit_15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Unit/medievalUnit_16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Unit/medievalUnit_17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Unit/medievalUnit_18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Unit/medievalUnit_19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Unit/medievalUnit_20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Unit/medievalUnit_21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Unit/medievalUnit_22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Unit/medievalUnit_23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Retina/Unit/medievalUnit_24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/PNG/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/lang-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/man3_fr1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/map1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello/static/the_story_map.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hello/templates/base.html" afterPath="$PROJECT_DIR$/hello/templates/base.html" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +295,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hello/templates/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -49,6 +322,7 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/static.json" />
+        <option value="$PROJECT_DIR$/hello/templates/base.html" />
       </list>
     </option>
   </component>
@@ -114,7 +388,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
+              <option name="myItemId" value="hello" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -318,15 +592,16 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="984" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41880342" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41880342" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -335,7 +610,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -376,6 +650,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello/static/man3_fr1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello/static/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
