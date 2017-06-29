@@ -3,89 +3,32 @@
 
 {% block content %}
 
-    <div class="jumbotron text-center">
-        <div class="container">
-            <h1>The Story So Far...</h1>
-            <p>This is a trading game set in a far away land. Buy from merchants in one town and sell in another.</p>
-        </div>
-    </div>
-    <div class="container">
-        <a type="button" class="btn btn-lg btn-default"
-           href="https://devcenter.heroku.com/articles/getting-started-with-python"><span
-                class="glyphicon glyphicon-flash"></span> Start a New Game</a>
-        You have:<br/>
-        <div id="player-inventory">
-            <span class="col-md-1 text-info">2</span><span class="col-md-2">silver</span><br/>
-            <span class="col-md-1 text-info">10</span><span class="col-md-2">obsidian pieces</span><br/>
-        </div>
-        <div>Other information</div>
-        <br/>
-        <div>
-            <div class="btn-group" role="group" aria-label="..." style="border-top:30px;">
-                <button id="left" type="button" class="btn btn-default" onclick="moveLeft()"><span
-                        class="glyphicon glyphicon-menu-left"></span></button>
-                <button id="right" type="button" class="btn btn-default" onclick="moveRight()"><span
-                        class="glyphicon glyphicon-menu-right"></span></button>
-                <button id="up" type="button" class="btn btn-default" onclick="moveUp()"><span
-                        class="glyphicon glyphicon-menu-up"></span></button>
-                <button id="down" type="button" class="btn btn-default" onclick="moveDown()"><span
-                        class="glyphicon glyphicon-menu-down"></span></button>
-            </div>
-        </div>
-        <div id="map-container" style="z-index: 900;height: 300px;width: 400px;position: static;"></div>
-        <div id="map" class="map-basic" style="clip-path: inset(1px 1401px 1501px 1px);
-                    border: 1px solid green; height: 1800px; width: 1800px;
-                    z-index: 100; position: absolute; margin-top: -300px;"></div>
-        <div id="map-towns" class="map-basic" style="clip-path: inset(1px 1401px 1501px 1px);
-                    border: 1px solid green; height: 1800px; width: 1800px;
-                    z-index: 200; position: absolute; margin-top: -300px;"></div>
-        <div id="pc" style="z-index: 150; position: absolute; margin-top: -152px; margin-left: 142px"></div>
-        <span class="label label-primary">Current Location</span>
-        <h1>
-            <div class="location" id="location">Unknown</div>
-        </h1>
-        <div>Trade</div>
-        <table class="table table-striped table-condensed">
-            <tr>
-                <td>Molybdenum</td>
-                <td id="molybdenum-demand"></td>
-                <td id="molybdenum-inventory"></td>
-            </tr>
-            <tr>
-                <td>Spice</td>
-                <td id="spice-demand"></td>
-                <td id="spice-inventory"></td>
-            </tr>
-            <tr>
-                <td>Obsidian</td>
-                <td id="obsidian-demand"></td>
-                <td id="obsidian-inventory"></td>
-            </tr>
-        </table>
+<div class="container">
+    <a type="button" class="btn btn-lg btn-default"
+       href="https://devcenter.heroku.com/articles/getting-started-with-python"><span
+            class="glyphicon glyphicon-book"></span> Make a Reservation</a>
 
-        <br/>
-        <div class="alert alert-info text-left" role="alert">
-            <div class="update" id="update"></div>
-        </div>
-        What do you want to do?
-        <div class="input-medium">
-            <form>
-                <input type="text" id="movement" name="instruction"/>
-                <button class="btn btn-primary" type="button" onclick="userAction()"><span
-                        class="glyphicon glyphicon-menu-right"></span> Move
-                </button>
-            </form>
-        </div>
-        <hr>
-        <div class="row">
-            <div class="col-md-6">
-                Other info you might want to know
-            </div>
-        </div>
-    </div>
-    </div>
-    <script type="application/javascript">
+    <div>Other information</div>
+    <br/>
+    <div>
 
-        loadMap();
-    </script>
+    </div>
+
+
+    <br/>
+    <div class="alert alert-info text-left" role="alert">
+        <div class="update" id="update"></div>
+    </div>
+    <hr>
+    Official Sponsors:<br/>
+    <div class="row">
+        <div class="col-md-6">
+            <img src="../static/hendricksonxp_logo.gif" alt="Hendrickson XP">
+            &nbsp;
+            <img src="../static/icebergideas_logo.png" alt="Iceberg Ideas Inc">
+        </div>
+    </div>
+</div>
+</div>
+
 {% endblock %}
