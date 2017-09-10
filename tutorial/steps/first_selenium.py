@@ -10,7 +10,7 @@ browser = webdriver.Chrome()
 def step_impl(context):
     print(context)
     browser.get('http://www.icebergideas.com')
-
+    browser.
 
 @then("I print the title")
 def step_impl(context):
