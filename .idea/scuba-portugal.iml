@@ -6,7 +6,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PyBDDFrameworkConfig">
-    <option name="preferedFrameworkName" value="lettuce" />
+    <option name="preferedFrameworkName" value="behave" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

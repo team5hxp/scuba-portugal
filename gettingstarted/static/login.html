@@ -1,0 +1,58 @@
+
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  	<title>ATDD test - Login Page</title>
+    <link rel="stylesheet" href="css/bootstrap.css" />
+    <link rel="stylesheet" href="css/bootstrap-theme.css" />
+    <script src="js/vendor/modernizr.js"></script>
+</head>
+<body>
+	<div class="row">
+      <div class="large-12 columns">
+        <h1>BDD Demo Site</h1>
+      </div>
+    </div>
+	<div class="row">
+		<div class="large-4 columns panel">
+			Welcome to the BDD Demo Site. <br/>This is a sample site used for the teaching of automating ATDD. We use some cool technologies in this program like Python, Behave and Selenium.
+			In time this site will be built out to include database interaction. More to come!
+		</div>
+		<div class="large-8 columns">
+	<form>
+		<div class="large=6 columns">
+			Username: <input id="username" type="text"><br/>
+			Password: <input id="password" type="password"><br/>
+			<input id="submit" class="button" type="button" value="Submit" onclick="checkPassword()"><br/>
+			<p id="message"></p>
+		</div>
+	</form>
+		</div>
+	</div>
+</body>
+<script language="javascript" type="text/javascript">
+
+	function checkPassword() {
+		var theUsername = document.getElementById("username").value;
+		var thePassword = document.getElementById("password").value;
+
+		if (theUsername == "user" && thePassword == "pass" ) {
+			document.getElementById("message").innerHTML = "Welcome";
+			window.location.href = "welcome.html";
+			}
+		else if (theUsername.length == 0){
+			document.getElementById("message").innerHTML = "Missing Username"
+			}
+		else {
+			document.getElementById("message").innerHTML = "Incorrect Username/Password. Please try again.";
+		}
+	}
+</script>
+<script src="js/npm.js"></script>
+<script src="js/bootstrap.js"></script>
+<script>
+  $(document).foundation();
+</script>
+</html>
