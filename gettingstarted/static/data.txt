@@ -1,0 +1,6 @@
+This site is designed to teach you about Acceptance Test Driven Development (ATDD) often called Behavioural Driven Development (BDD).
+Using these testing techniques can help your team gain a better shared understanding of what you are building.
+Other software used includes Behave and Selenium.
+I hope you enjoy it.
+Leave us a note if you have an idea to make it better.
+We love improving!
