@@ -1,4 +1,5 @@
 import time
+
 from behave import *
 from selenium import webdriver
 
@@ -11,12 +12,14 @@ driver.switch_to.window(primary)
 
 pause = 1
 
+
 def before_all(context):
     pass
 
+
 @given("I am on the login page")
 def step_impl(context):
-    driver.get('http://localhost:8000/login.html')
+    driver.get('http://localhost:5000/login')
     time.sleep(pause)
 
 
@@ -31,49 +34,55 @@ def step_impl(context):
     time.sleep(pause)
     driver.find_element_by_id('submit').click()
 
+
 @then("I should see the welcome page")
 def step_impl(context):
-    assert driver.title == "ATDD test - Welcome Page"
+    assert driver.title == "Scuba Portugal - Welcome"
+
+
+@when("I enter an invalid username or password")
+def step_impl(context):
+    driver.switch_to.window(primary)
+    username = driver.find_element_by_id('username')
+    username.send_keys("wronguser")
+    time.sleep(pause)
+    password = driver.find_element_by_id('password')
+    password.send_keys("wrongpass")
+    time.sleep(pause)
+    driver.find_element_by_id('submit').click()
+
+
+@then("I expect to be on the login page")
+def step_impl(context):
+    assert driver.title == "Scuba Portugal - Login"
+
+
+@step("I expect to see an error message")
+def step_impl(context):
+    driver.switch_to.window(primary)
+    message = driver.find_element_by_id('message').text
+    assert message == "Incorrect Username/Password. Please try again."
+
+
+@when("I am missing a username")
+def step_impl(context):
+    driver.switch_to.window(primary)
+    username = driver.find_element_by_id('username')
+    username.send_keys("")
+    time.sleep(pause)
+    password = driver.find_element_by_id('password')
+    password.send_keys("wrongpass")
+    time.sleep(pause)
+    driver.find_element_by_id('submit').click()
+
+
+@step("I expect to see an missing field error")
+def step_impl(context):
+    driver.switch_to.window(primary)
+    message = driver.find_element_by_id('message').text
+    assert message == "Missing Username"
+
 
 
 def after_all(context):
     driver.close()
-#
-# @when("I enter an invalid username or password")
-# def step_impl(context):
-#     """
-#     :type context: behave.runner.Context
-#     """
-#     pass
-#
-#
-# @then("I expect to be on the login page")
-# def step_impl(context):
-#     """
-#     :type context: behave.runner.Context
-#     """
-#     pass
-#
-#
-# @step("I expect to see an error message")
-# def step_impl(context):
-#     """
-#     :type context: behave.runner.Context
-#     """
-#     pass
-#
-#
-# @when("I am missing a username")
-# def step_impl(context):
-#     """
-#     :type context: behave.runner.Context
-#     """
-#     pass
-#
-#
-# @step("I expect to see an missing field error")
-# def step_impl(context):
-#     """
-#     :type context: behave.runner.Context
-#     """
-#     pass
