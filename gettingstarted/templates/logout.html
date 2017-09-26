@@ -1,20 +1,15 @@
-<!doctype html>
-<html class="no-js" lang="en">
-<head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>ATDD test - Welcome Page</title>
-    <link rel="stylesheet" href="css/foundation.css" />
-    <link rel="stylesheet" href="css/app.css" />
-    <script src="js/vendor/modernizr.js"></script>
-</head>
-<body>
-<div class="row">
-    <div class="large-12 columns">
-        <h1>ATDD Demo Site</h1>
-    </div>
-    You are now logged out! Come back soon, learning happens everyday.
+{% extends "base.html" %}
 
+{% block title %}Logout{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="cols">
+        <h1>Scuba Portugal</h1>
+    </div>
+    <div class="update">
+        You are now logged out!<br/>
+        Come back soon for your next adventure!
+    </div>
 </div>
-</body>
-</html>
+

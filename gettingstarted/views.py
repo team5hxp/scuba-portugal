@@ -14,3 +14,7 @@ def login(request):
 
 def welcome(request):
     return render(request, 'welcome.html')
+
+
+def logout():
+    return render(request, 'logout.html')

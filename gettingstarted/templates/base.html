@@ -10,23 +10,33 @@
 <body>
 <nav class="navbar navbar-default navbar-static-top navbar-inverse">
     <div class="container">
-            <ul class="nav navbar-nav">
-                <li class="nav-item active"><a class="nav-link" href="/">
-                    <span class="glyphicon glyphicon-home"></span> Home</a></li>
-                <li class="nav-item"><a class="nav-link" href="welcome.html">
-                    <span class="glyphicon glyphicon-heart-empty"></span> Welcome</a></li>
-{#                <li class="nav-item"><a class="nav-link" href="search.html">#}
-{#                    <span class="glyphicon glyphicon-search"></span> Search</a></li>#}
-                <li class="nav-item"><a class="nav-link" href="login.html">
-                    <span class="glyphicon glyphicon-user"></span> Login</a></li>
-                <li class="nav-item"><a class="nav-link" href="logout.html">
-                    <span class="glyphicon glyphicon-user"></span> Logout</a></li>
+        <ul class="nav navbar-nav">
+            <li class="nav-item active"><a class="nav-link" href="/">
+                <span class="glyphicon glyphicon-home"></span> Home</a></li>
+            <li class="nav-item"><a class="nav-link" href="welcome.html">
+                <span class="glyphicon glyphicon-heart-empty"></span> Welcome</a></li>
+            {#                <li class="nav-item"><a class="nav-link" href="search.html">#}
+            {#                    <span class="glyphicon glyphicon-search"></span> Search</a></li>#}
+            <li class="nav-item"><a class="nav-link" href="login.html">
+                <span class="glyphicon glyphicon-user"></span> Login</a></li>
+            <li class="nav-item"><a class="nav-link" href="logout.html">
+                <span class="glyphicon glyphicon-user"></span> Logout</a></li>
 
-            </ul>
+        </ul>
     </div>
 </nav>
 
 {% block content %}{% endblock %}
-
+<hr/>
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <img src="img/hendricksonxp_logo.gif" alt="Hendrickson XP">
+        </div>
+        <div class="col">
+            <img src="img/icebergideas_logo.png" alt="Iceberg Ideas Inc">
+        </div>
+    </div>
+</div>
 </body>
 </html>
