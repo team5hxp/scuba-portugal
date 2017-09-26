@@ -1,9 +1,5 @@
 from django.shortcuts import render
 
-from gettingstarted.models import Greeting
-
-
-# from django.http import HttpResponse
 
 # Create your views here.
 def index(request):
@@ -11,12 +7,10 @@ def index(request):
     return render(request, 'index.html')
 
 
-def db(request):
+def login(request):
+    # return HttpResponse('Hello from Python!')
+    return render(request, 'login.html')
 
-    greeting = Greeting()
-    greeting.save()
 
-    greetings = Greeting.objects.all()
-
-    return render(request, 'db.html', {'greetings': greetings})
-
+def welcome(request):
+    return render(request, 'welcome.html')
