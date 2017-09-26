@@ -16,5 +16,5 @@ def welcome(request):
     return render(request, 'welcome.html')
 
 
-def logout():
+def logout(request):
     return render(request, 'logout.html')
