@@ -1,0 +1,24 @@
+{
+  "name": "Scuba - Portugal",
+  "description": "A Simple python example for BDD/ATDD development",
+  "image": "heroku/python",
+  "repository": "https://github.com/wouterla/scuba-portugal",
+  "keywords": ["python", "django" ],
+  "addons": [],
+  "environments": {
+    "test": {
+      "buildpacks": [
+        { "url": "https://github.com/heroku/heroku-buildpack-xvfb-google-chrome" }
+        { "url": "https://github.com/heroku/heroku-buildpack-chromedriver" }
+      ],
+      "scripts": {
+        "test-setup": "python manage.py migrate collectstatic --noinput",
+        "test": "python manage.py test",
+        "behave": "behave.sh"
+      }
+    }
+  },
+  "scripts": {
+    "postdeploy": "python manage.py migrate --noinput"
+  }
+}
