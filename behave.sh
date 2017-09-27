@@ -7,8 +7,11 @@ else
   echo using Chrome: $GOOGLE_CHROME_SHIM
 fi
 export PORT=5000
-python manage.py runserver $PORT 2>&1 > /dev/null &
-PID=$!
-echo $PID
+python manage.py runserver $PORT &
 behave tutorial
-kill -15 -${PID}
+pids=$(ps -o pid,group,command | grep manage.py | grep -v grep | cut -d' ' -f1)
+for pid in $pids
+do
+  echo "killing $pid"
+  kill $pid
+done
