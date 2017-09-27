@@ -102,3 +102,9 @@ ENV/
 
 #PyCharm file
 .idea/workspace.xml
+
+# Local db
+db.sqlite3
+
+# OSX metadata files
+.DS_Store
