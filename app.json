@@ -8,14 +8,14 @@
   "environments": {
     "test": {
       "buildpacks": [
-        { "url": "https://github.com/heroku/heroku-buildpack-xvfb-google-chrome" }
+        { "url": "https://github.com/heroku/heroku-buildpack-xvfb-google-chrome" },
         { "url": "https://github.com/heroku/heroku-buildpack-chromedriver" }
       ],
       "scripts": {
         "test-setup": "python manage.py migrate collectstatic --noinput",
         "unit-test": "python manage.py test",
         "behave-test": "behave.sh",
-        "done": "echo 'All done'"
+        "done": "echo Done"
       }
     }
   },
