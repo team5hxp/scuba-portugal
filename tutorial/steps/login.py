@@ -1,11 +1,19 @@
 import time
+import os
 
 from behave import *
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 
 use_step_matcher("re")
 
-driver = webdriver.Chrome()
+options = Options()
+if "GOOGLE_CHROME_SHIM" in os.environ:
+    options.binary_location = os.environ.get("GOOGLE_CHROME_SHIM")
+    driver = webdriver.Chrome(chrome_options=options, executable_path=options.binary_location)
+else:
+    driver = webdriver.Chrome()
+
 # focus window on top
 primary = driver.window_handles[0]
 driver.switch_to.window(primary)
