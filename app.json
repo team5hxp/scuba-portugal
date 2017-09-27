@@ -2,6 +2,7 @@
   "name": "Scuba - Portugal",
   "description": "A Simple python example for BDD/ATDD development",
   "image": "heroku/python",
+  "stack": "cedar-14",
   "repository": "https://github.com/wouterla/scuba-portugal",
   "keywords": ["python", "django" ],
   "addons": [],
