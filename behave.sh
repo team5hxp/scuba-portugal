@@ -7,11 +7,14 @@ else
   echo using Chrome: $GOOGLE_CHROME_SHIM
 fi
 export PORT=5000
-python manage.py runserver $PORT &
+gunicorn gettingstarted.wsgi:application --log-file /tmp/logs &
+PID=$!
 behave tutorial
-pids=$(ps -o pid,group,command | grep manage.py | grep -v grep | cut -d' ' -f1)
-for pid in $pids
-do
-  echo "killing $pid"
-  kill $pid
-done
+kill $PID
+echo "Killed a unicorn!"
+# pids=$(ps -o pid,group,command | grep manage.py | grep -v grep | cut -d' ' -f1)
+# for pid in $pids
+# do
+#   echo "killing $pid"
+#   kill $pid
+# done
