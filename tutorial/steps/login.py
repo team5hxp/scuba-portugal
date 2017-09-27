@@ -8,24 +8,23 @@ use_step_matcher("re")
 driver = webdriver.Chrome()
 # focus window on top
 primary = driver.window_handles[0]
-driver.switch_to.window(primary)
 
 pause = 1
 
 
-def before_all(context):
-    pass
+def before_scenario(context):
+    driver.switch_to.window(primary)
 
 
 @given("I am on the login page")
 def step_impl(context):
+    driver.switch_to.window(primary)
     driver.get('http://localhost:5000/login')
     time.sleep(pause)
 
 
 @when("I enter a valid username and password")
 def step_impl(context):
-    driver.switch_to.window(primary)
     username = driver.find_element_by_id('username')
     username.send_keys("user")
     time.sleep(pause)
@@ -42,7 +41,6 @@ def step_impl(context):
 
 @when("I enter an invalid username or password")
 def step_impl(context):
-    driver.switch_to.window(primary)
     username = driver.find_element_by_id('username')
     username.send_keys("wronguser")
     time.sleep(pause)
@@ -59,14 +57,12 @@ def step_impl(context):
 
 @step("I expect to see an error message")
 def step_impl(context):
-    driver.switch_to.window(primary)
     message = driver.find_element_by_id('message').text
     assert message == "Incorrect Username/Password. Please try again."
 
 
 @when("I am missing a username")
 def step_impl(context):
-    driver.switch_to.window(primary)
     username = driver.find_element_by_id('username')
     username.send_keys("")
     time.sleep(pause)
@@ -78,11 +74,10 @@ def step_impl(context):
 
 @step("I expect to see an missing field error")
 def step_impl(context):
-    driver.switch_to.window(primary)
     message = driver.find_element_by_id('message').text
     assert message == "Missing Username"
 
 
 
-def after_all(context):
+def after_scenario(context):
     driver.close()

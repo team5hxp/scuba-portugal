@@ -2,7 +2,7 @@
 #
 # class Browser(object):
 #
-#     baseurl = 'http://localhost:8080/login.html'
+#     baseurl = 'http://localhost:8000/login.html'
 #     driver = webdriver.Chrome()
 #     driver.implicitly_wait(10)
 #
