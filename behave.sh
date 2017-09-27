@@ -5,7 +5,6 @@ then
 else
   echo using Chrome: $GOOGLE_CHROME_SHIM
 fi
-cd tutorial
 export PORT=5000
-python manage.py runserver $PORT 2>&1 > /dev/null
-behave
+python manage.py runserver $PORT 2>&1 > /dev/null &
+behave tutorial

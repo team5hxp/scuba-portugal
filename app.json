@@ -14,8 +14,8 @@
         { "url": "https://github.com/heroku/heroku-buildpack-chromedriver" }
       ],
       "scripts": {
-        "test-setup": "python manage.py collectstatic --noinput && python manage.py migrate --noinput && python manage.py runserver $PORT 2>&1 > /dev/null &",
-        "test": "python manage.py test && behave tutorial"
+        "test-setup": "python manage.py collectstatic --noinput && python manage.py migrate --noinput",
+        "test": "python manage.py test && ./behave.sh"
       }
     }
   },
