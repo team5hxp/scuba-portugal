@@ -8,5 +8,7 @@ fi
 export PORT=5000
 python manage.py runserver $PORT 2>&1 > /dev/null &
 PID=$!
+echo $PID
 behave tutorial
-kill $PID
+kill -${PID}
+ps -eafx
