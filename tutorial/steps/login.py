@@ -14,6 +14,10 @@ if "GOOGLE_CHROME_SHIM" in os.environ:
 else:
     driver = webdriver.Chrome()
 
+port = 80
+if "PORT" in os.environ:
+    port = os.environ.get("PORT")
+
 # focus window on top
 primary = driver.window_handles[0]
 driver.switch_to.window(primary)
@@ -27,7 +31,7 @@ def before_all(context):
 
 @given("I am on the login page")
 def step_impl(context):
-    driver.get('http://localhost:5000/login')
+    driver.get('http://localhost:' + port + '/login')
     time.sleep(pause)
 
 
