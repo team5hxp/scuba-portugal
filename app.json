@@ -15,9 +15,9 @@
       ],
       "scripts": {
         "test-setup": "python manage.py collectstatic --noinput",
+        "test-setup": "python manage.py migrate --noinput",
         "test": "python manage.py test",
-        "behave-test": "behave.sh",
-        "done": "echo Done"
+        "test": "behave.sh"
       }
     }
   },
