@@ -9,8 +9,8 @@ use_step_matcher("re")
 
 options = Options()
 if "GOOGLE_CHROME_SHIM" in os.environ:
-    options.binary_location = os.environ.get("GOOGLE_CHROME_SHIM")
-    driver = webdriver.Chrome(chrome_options=options, executable_path=options.binary_location)
+    options.binary_location = os.environ.get("GOOGLE_CHROME_SHIM", None)
+    driver = webdriver.Chrome(chrome_options=options, executable_path="chromedriver")
 else:
     driver = webdriver.Chrome()
 
