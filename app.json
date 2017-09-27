@@ -13,7 +13,7 @@
       ],
       "scripts": {
         "test-setup": "python manage.py migrate collectstatic --noinput",
-        "unit-test": "python manage.py test",
+        "test": "python manage.py test",
         "behave-test": "behave.sh",
         "done": "echo Done"
       }
