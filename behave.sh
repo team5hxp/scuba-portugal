@@ -10,11 +10,6 @@ export PORT=5000
 gunicorn gettingstarted.wsgi:application --log-file /tmp/logs &
 PID=$!
 behave tutorial
+TEST_OUTPUT=$!
 kill $PID
-echo "Killed a unicorn!"
-# pids=$(ps -o pid,group,command | grep manage.py | grep -v grep | cut -d' ' -f1)
-# for pid in $pids
-# do
-#   echo "killing $pid"
-#   kill $pid
-# done
+exit $TEST_OUTPUT
