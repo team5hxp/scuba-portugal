@@ -10,6 +10,6 @@ export PORT=5000
 gunicorn gettingstarted.wsgi:application --log-file /tmp/logs &
 PID=$!
 behave tutorial
-TEST_OUTPUT=$!
+TEST_OUTPUT=$?
 kill $PID
 exit $TEST_OUTPUT
