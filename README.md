@@ -23,7 +23,8 @@ python manage.py migrate
 ```
 Then run the webserver:
 ```
-python manage.py runserver 5000
+export PORT=5000
+python manage.py runserver $PORT
 ```
 
 ## Run BDD tests
