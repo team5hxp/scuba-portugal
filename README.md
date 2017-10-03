@@ -1,7 +1,7 @@
 # scuba-portugal
 Demonstration site
 
-## Team 5
+## Team 5 - with pipline
 
 ## Init (virtual) env
 ```
