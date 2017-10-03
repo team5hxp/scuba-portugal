@@ -27,6 +27,13 @@ def step_impl(context):
 @then("I should see the welcome page")
 def step_impl(context):
     assert context.browser.title == "Scuba Portugal - Welcome"
+ 
+
+@then("I shouldn't see the login option")
+def step_impl(context):
+    login=context.browser.find_element_by_id('loginlnk')
+    assert isPresent(login)
+    time.sleep(pause)
 
 
 @when("I enter an invalid username or password")
