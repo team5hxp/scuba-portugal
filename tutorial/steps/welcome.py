@@ -20,5 +20,5 @@ def step_impl(context):
 
 @then("I should see the a Popup page with recommended book")
 def step_impl(context):
-    assert context.browser.find_element_by_id('exampleModal').aria-hidden == "False"
+    assert context.browser.find_element_by_id('exampleModal').getAttribute("aria-hidden") == "False"
 
