@@ -20,5 +20,6 @@ def step_impl(context):
 
 @then("I should see the a Popup page with recommended book")
 def step_impl(context):
-    assert true
+    assert context.browser.title == "Scuba Portugal - Welcome"
+
 
