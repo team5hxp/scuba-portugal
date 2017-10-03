@@ -31,8 +31,8 @@ def step_impl(context):
 
 @then("I shouldn't see the login option")
 def step_impl(context):
-    login=context.browser.find_element_by_id('loginlnk')
-    assert login.get_attribute("href") == "login.html"
+    login=context.browser.find_element_by_link_text('login')
+    assert login.is_displayed()
     time.sleep(pause)
 
 
